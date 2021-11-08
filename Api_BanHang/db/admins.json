@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "600d6c126925bc4888cf212f"
+  },
+  "email": "codetoanbug06@gmail.com",
+  "name": "tran thanh hà",
+  "pass": "123456",
+  "author": "0",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d843965b8c05b9c11094b"
+  },
+  "email": "codetoanbug061@gmail.com",
+  "name": "tran thanh hà",
+  "pass": "123456",
+  "author": "0",
+  "__v": 0
+}]
