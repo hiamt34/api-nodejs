@@ -1,0 +1,59 @@
+[
+    {
+        "id":"SKU",
+        "title":"Cleaning Dustpan & Brush",
+        "rate":5,
+        "price-old":1000,
+        "price-new":2000,
+        "sale":50,
+        "status":[
+            "outofstock",
+            "hot"
+        ],
+        "img":["img1","img2"],
+        "description":"Easy clip-on handle – Hold the brush and dustpan together for storage; the dustpan edge is serrated to allow easy scraping off the hair without entanglement. High-quality bristles – no burr damage, no scratches, thick and durable, comfortable to remove dust and smaller particles.",
+        "size":["large","smal","medium"],
+        "color":["black","while"],
+        "quantity":10,
+        "brands":["adsdadasa"],
+        "category":"handmake"
+    },
+    {
+        "id":"SKU2",
+        "title":"Cleaning ",
+        "rate":5,
+        "price-old":1000,
+        "price-new":2000,
+        "sale":50,
+        "status":[
+            "outofstock",
+            "hot"
+        ],
+        "img":["img1","img2"],
+        "description":"Easy clip-on handle – Hold the brush and dustpan together for storage; the dustpan edge is serrated to allow easy scraping off the hair without entanglement. High-quality bristles – no burr damage, no scratches, thick and durable, comfortable to remove dust and smaller particles.",
+        "size":["large","smal","medium"],
+        "color":["black","while"],
+        "quantity":10,
+        "brands":["adsdadasa"],
+        "category":"handmake"
+    },
+    {
+        "id":"SKU3",
+        "title":"Brush",
+        "rate":5,
+        "price-old":1000,
+        "price-new":2000,
+        "sale":50,
+        "status":[
+            "outofstock",
+            "hot"
+        ],
+        "img":["img1","img2"],
+        "description":"Easy clip-on handle – Hold the brush and dustpan together for storage; the dustpan edge is serrated to allow easy scraping off the hair without entanglement. High-quality bristles – no burr damage, no scratches, thick and durable, comfortable to remove dust and smaller particles.",
+        "size":["large","smal","medium"],
+        "color":["black","while"],
+        "quantity":10,
+        "brands":["adsdadasa"],
+        "category":"handmake"
+    }
+]

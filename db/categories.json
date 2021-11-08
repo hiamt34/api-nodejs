@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "60175393c05db51e9c6bb66b"
+  },
+  "name": "Kniting & Sewing",
+  "img": "IMG\\1612141459223-banner-s5-5.png",
+  "__v": 0,
+  "home": "ON"
+},{
+  "_id": {
+    "$oid": "6017549fc05db51e9c6bb66c"
+  },
+  "name": "Pots",
+  "img": "IMG\\1612141727880-banner-s5-4.png",
+  "__v": 0,
+  "home": "ON"
+},{
+  "_id": {
+    "$oid": "601754b2c05db51e9c6bb66d"
+  },
+  "name": "Toys",
+  "img": "IMG\\1612141746234-banner-s5-3.png",
+  "__v": 0,
+  "home": "ON"
+},{
+  "_id": {
+    "$oid": "601754bfc05db51e9c6bb66e"
+  },
+  "name": "Home Decor",
+  "img": "IMG\\1612141759607-banner-s5-2.png",
+  "__v": 0,
+  "home": "ON"
+},{
+  "_id": {
+    "$oid": "60175599a07d225a4462c74a"
+  },
+  "name": "Gift ideas",
+  "img": "IMG\\1612158252588-banner-s5-1.png",
+  "__v": 0,
+  "home": "ON"
+}]
